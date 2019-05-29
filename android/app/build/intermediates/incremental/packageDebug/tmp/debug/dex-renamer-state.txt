@@ -1,0 +1,4 @@
+#Wed May 22 11:53:22 IST 2019
+base.0=/home/suri/Desktop/react-native/JustAgile/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
